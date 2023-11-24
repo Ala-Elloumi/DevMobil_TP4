@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ala-Elloumi_Mesure_Glycemie</string>
+    <string name="titleText">Mesure de niveau de glycémie</string>
+    <string name="ageText">Votre Age</string>
+    <string name="jeunesseText">Est-ce que vous jeunez ?</string>
+    <string name="oui">Oui</string>
+    <string name="non">Non</string>
+    <string name="valeurText">Valeur mesurée (en mmol/l)</string>
+    <string name="consulterText">CONSULTER</string>
+    <string name="dotText">...</string>
+</resources>
